@@ -9,3 +9,6 @@ Data Description:
 
 Objective:
 - In this problem, we use a pre-trained model trained on Face recognition to recognize similar faces. Here, we are particularly interested in recognizing whether two given faces are of the same person or not.
+
+
+You can find the pre-trained weights by clicking this link : https://drive.google.com/file/d/1CPSeum3HpopfomUEK1gybeuIVoeJT_Eo/view
